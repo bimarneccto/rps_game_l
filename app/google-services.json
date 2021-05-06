@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "618534407958",
+    "firebase_url": "https://basedatagame-default-rtdb.firebaseio.com",
+    "project_id": "basedatagame",
+    "storage_bucket": "basedatagame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618534407958:android:f49c13bd739add0a064a37",
+        "android_client_info": {
+          "package_name": "space.mb.rps_game_l"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618534407958-0hlka5eqgd71uqdqko34eqtmrm07f9qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfKaE-9NxfdeyreBYJLjIaZxa9iJRp7aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618534407958-0hlka5eqgd71uqdqko34eqtmrm07f9qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
